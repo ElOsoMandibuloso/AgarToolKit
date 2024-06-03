@@ -12,6 +12,9 @@ agar.io##[id^="agar-io_"]
 agar.io##html:style(--bottom-banner-height: 0
 
 --------------------------------------------------------------------
+Cómo instalar:
+Simplemente descárgalo a Code -> Download ZIP, descomprime el archivo y ejecuta FallGuysTools.exe
+--------------------------------------------------------------------
 
 Controles:
 
