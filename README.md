@@ -12,7 +12,9 @@ agar.io##[id^="agar-io_"]
 agar.io##html:style(--bottom-banner-height: 0
 
 --------------------------------------------------------------------
-
+How to install:
+Just download everything by clicking Code and then Download ZIP
+--------------------------------------------------------------------
 Keybinds:
 
 - C or 5 (NumPad) to stay still.
