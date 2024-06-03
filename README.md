@@ -13,7 +13,7 @@ agar.io##html:style(--bottom-banner-height: 0
 
 --------------------------------------------------------------------
 How to install:
-Just download everything by clicking Code and then Download ZIP
+Just download everything by clicking Code -> Download ZIP, extract it and run the AgarToolKit.exe
 --------------------------------------------------------------------
 Keybinds:
 
